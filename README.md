@@ -1,7 +1,7 @@
 ### Lincoln 👋
 
 <div align='left'>
-    <span>💻 - <i>Website Developer - Begginer</i><br></span>
+    <span>💻 - <i>Website Developer - Beginner</i><br></span>
 </div>
 <hr>
 <div align='center'>
