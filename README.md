@@ -1,4 +1,4 @@
-### Lincoln 👋
+### Lincoln - 👋
 
 <div align='left'>
     <span>💻 - <i>Website Developer - Beginner</i><br></span>
