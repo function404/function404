@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align='center'>
-    <a target="_blank" href="https://github.com/functio404">
+    <a target="_blank" href="https://github.com/function404">
         <div dir='auto'>
             <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30" alt="html5">
             -
