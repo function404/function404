@@ -11,19 +11,5 @@
 </div>
 <br>
 <div align='center'>
-    <a target="_blank" href="https://github.com/function404">
-        <div dir='auto'>
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30" alt="html5">
-            -
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" alt="js">
-            -
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="php">
-            -
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="30" alt="css3">
-            -
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="30" alt="mysql">
-            -
-            <img align='center' src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" alt="reactjs">
-        </div>
-    </a>
+   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=function404&show_icons=true&theme=radical)](https://github.com/function404)
 </div>
