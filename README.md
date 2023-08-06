@@ -1,6 +1,7 @@
-### Lincoln - 👋
+### Óla! Seja bem-vindo(a) - 👋
 
 <div align='left'>
+    <span>🙂 - <i>Me chamo Lincoln e meu apelido é Function</i><br></span>
     <span>💻 - <i>Website Developer - Beginner</i><br></span>
 </div>
 <hr>
