@@ -1,4 +1,4 @@
-### Óla! Seja bem-vindo(a) - 👋
+### Olá! Seja bem-vindo(a) - 👋
 
 <div align='left'>
     <span>🙂 - <i>Me chamo Lincoln e meu apelido é Function</i><br></span>
