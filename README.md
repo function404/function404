@@ -1,20 +1,25 @@
 <div align='center'>
-### Hi! Welcome to my Github profile. - 👋
+
+# 👋 - Hi! Welcome to my Github profile.    
+
 </div>
 
+
 <div align='center'>
-    <span>🙂 - <i>My name is Lincoln and my nickname is Function</i><br></span>
-    <span>💻 - <i>Website Developer - Beginner</i><br></span>
+    <h4>🙂 - <i>My name is Lincoln and my nickname is Function</i><br></h4>
+    <h4>💻 - <i>Website Developer - Beginner</i><br></h4>
 </div>
 <hr>
 <div align="center">
   
 ## About
+
 Hello, I am a passionate FrontEnd Developer dedicated to crafting engaging digital experiences. My specialties encompass HTML5, CSS3, JavaScript, React Native, and Next.js, enabling me to structure, style, and breathe life into web and mobile projects effectively. I am committed to translating concepts into high-quality, interactive interfaces..
 
 -------------------
 
 ## Contact
+
 <a href="https://www.instagram.com/lincoln.xit__/">
     <img src="https://img.shields.io/badge/Lincoln.xit__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a> 
@@ -49,6 +54,5 @@ Hello, I am a passionate FrontEnd Developer dedicated to crafting engaging digit
 </div>
 
 -----
-
 
 © made by Function404
