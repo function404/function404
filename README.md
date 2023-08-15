@@ -15,7 +15,15 @@ Hello, I am a passionate FrontEnd Developer dedicated to crafting engaging digit
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/lincoln.xit__/">![Instagram](https://img.shields.io/badge/Function404-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>  ![Discord](https://img.shields.io/badge/Function404-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://www.instagram.com/lincoln.xit__/">
+    <img src="https://img.shields.io/badge/Lincoln.xit__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a> 
+<a href="https://www.github.com/Function404">
+   <img src="https://img.shields.io/badge/Function404-000000.svg?style=for-the-badge&logo=github&logoColor=white"/> 
+</a>
+<a href="https://www.linkedin.com/in/lincoln-novais-mezzalira-361962236/">
+    <img src="https://img.shields.io/badge/Lincoln%20Novais%20Mezzalira-1083de.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
 
 -------------------
 
