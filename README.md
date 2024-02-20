@@ -37,6 +37,7 @@ Hello, I am a passionate FrontEnd Developer dedicated to crafting engaging digit
 ![Css3](https://img.shields.io/badge/css3-359acc.svg?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![ReactJS](https://img.shields.io/badge/reactjs-359acc.svg?style=for-the-badge&logo=react&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
