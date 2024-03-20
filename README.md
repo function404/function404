@@ -49,9 +49,6 @@ Hello, I am a passionate FrontEnd Developer dedicated to crafting engaging digit
 <div align='center'>
     <img height="170em" aling="center" src="https://github-readme-stats.vercel.app/api?username=Function404&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
     <img height="170em" aling="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Function404&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div>
      <img height="170em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=function404&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
