@@ -40,18 +40,22 @@ Hello, I am a passionate FrontEnd Developer dedicated to crafting engaging digit
 ![NextJS](https://img.shields.io/badge/nextjs-000.svg?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=ffffff)
+![Powershell](https://img.shields.io/badge/powershell-278cda.svg?style=for-the-badge&logo=powershell&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=ffffff) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
-  
+![npm](https://img.shields.io/badge/npm-cb3837.svg?style=for-the-badge&logo=npm&logoColor=ffffff)
+![Yarn](https://img.shields.io/badge/yarn-2c8ebb.svg?style=for-the-badge&logo=yarn&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/nodejs-5fa04e.svg?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-34a853.svg?style=for-the-badge&logo=androidstudio&logoColor=ffffff)
+
 -------------------
 
 <div align='center'>
     <img height="170em" aling="center" src="https://github-readme-stats.vercel.app/api?username=Function404&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
     <img height="170em" aling="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Function404&theme=dark&include_all_commits=true&count_private=true"/>
-     <img height="170em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=function404&layout=compact&langs_count=10&theme=dark"/>
+    <img height="170em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=function404&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 -----
 
-© made by Function404
+© made by <a href='https://function404.netlify.app' target='_blank'>Function404</a>
