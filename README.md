@@ -12,25 +12,18 @@
 
 ### About
 <div align='justify'>
-    <h5> 
+    <h4> 
        <i>Hello, I am a passionate Front-end Developer dedicated to crafting engaging digital experiences. My specialties encompass HTML5, CSS3, JavaScript, React Native, and Next.js, enabling me to structure, style, and breathe life into web and mobile projects effectively. I am committed to translating concepts into high-quality, interactive interfaces.</i> 
-    </h5>
+    </h4>
 </div>
 
 -------------------
 
 ### Contact
-<div>
-    <a href="https://www.instagram.com/lincoln.xit__/">
-        <img src="https://img.shields.io/badge/Lincoln.xit__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a> 
-    <a href="https://www.github.com/Function404">
-       <img src="https://img.shields.io/badge/Function404-000000.svg?style=for-the-badge&logo=github&logoColor=white"/> 
-    </a>
-    <a href="https://www.linkedin.com/in/lincoln-novais-mezzalira-361962236/">
-        <img src="https://img.shields.io/badge/Lincoln%20Novais%20Mezzalira-1083de.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a> 
-</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincoln.xit__/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincoln-novais-mezzalira-361962236/)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zfunction/)
 
 -------------------
 
