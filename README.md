@@ -45,10 +45,10 @@
 
 -------------------
 
-<div align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Function404&theme=dark&include_all_commits=true&count_private=true" width="35%"/>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Function404&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="35%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=function404&layout=compact&langs_count=10&theme=dark" width="25%" />
+<div align="center" height="107em"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=function404&theme=tokyonight&include_all_commits=true&count_private=true" width="35%"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=function404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="35%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=function404&layout=compact&langs_count=6&count_private=true&theme=tokyonight" width="25%" />
 </div>
 
 <div align="center">
