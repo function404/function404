@@ -6,7 +6,7 @@
     
 ### 🙂 - <i>My name is Lincoln and my nickname is Function</i><br>
 
-### 💻 - <i>Mobile and Web Developer - Beginner</i><br></h4>
+### 💻 - <i>Mobile and Web Developer </i><br></h4>
 </div>
 <hr>
 
