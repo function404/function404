@@ -4,7 +4,7 @@
 <div align='left'>
     <h2>👋 - <i>Hi! Welcome to my Github profile</i><br></h2>
     
-### 🙂 - <i>My name is Lincoln and my nickname is Function</i><br>
+### 🙂 - <i>My name is Lincoln and my nickname is Functionss</i><br>
 
 ### 💻 - <i>Mobile and Web Developer </i><br></h4>
 </div>
