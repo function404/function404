@@ -1,63 +1,132 @@
-![](https://komarev.com/ghpvc/?username=function404&color=006bed)
-
-
-<div align='left'>
-    <h2>👋 - <i>Hi! Welcome to my Github profile</i><br></h2>
-    
-### 🙂 - <i>My name is Lincoln and my nickname is Functionss</i><br>
-
-### 💻 - <i>Mobile and Web Developer </i><br></h4>
-</div>
-<hr>
-
-### About
-<div align='justify'>
-    <h4> 
-       <i>Hello, I am a passionate Front-end Developer dedicated to crafting engaging digital experiences. My specialties encompass HTML5, CSS3, JavaScript, React Native, and Next.js, enabling me to structure, style, and breathe life into web and mobile projects effectively. I am committed to translating concepts into high-quality, interactive interfaces.</i> 
-    </h4>
+<div align="left">
+  <img src="https://profile-counter.glitch.me/function404/count.svg?"  />
 </div>
 
--------------------
+###
 
-### Contact
+<img align="right" height="200" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif"  />
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lincoln.mezzalira/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincoln-novais-mezzalira-361962236/)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zfunction/)
+###
 
--------------------
+<h3 align="left">🫡 - Hi! Welcome to my Github profile</h3>
 
-### Languages and Tools  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
-![Css3](https://img.shields.io/badge/css3-563d7c.svg?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffee00?&style=for-the-badge&logo=javascript&logoColor=000000) 
-![ReactJS](https://img.shields.io/badge/reactjs-359acc.svg?style=for-the-badge&logo=react&logoColor=ffffff)
-![NextJS](https://img.shields.io/badge/nextjs-000.svg?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) <br>
-![Powershell](https://img.shields.io/badge/powershell-278cda.svg?style=for-the-badge&logo=powershell&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=ffffff) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
-![npm](https://img.shields.io/badge/npm-cb3837.svg?style=for-the-badge&logo=npm&logoColor=ffffff)
-![Yarn](https://img.shields.io/badge/yarn-2c8ebb.svg?style=for-the-badge&logo=yarn&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/nodejs-5fa04e.svg?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-34a853.svg?style=for-the-badge&logo=androidstudio&logoColor=ffffff)
+###
 
--------------------
+<h3 align="left">🙂 - My name is Lincoln and my nickname is Functionss</h3>
 
-<div align="left" height="170em"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=function404&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%"/>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=function404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%"/>
-</div>
+###
 
-<div align="left"  height="170em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=function404&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true" width="35%" />
-</div>
+<h3 align="left">💻 - Mobile and Web Developer</h3>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">📷 - Social</h3>
+
+###
+
+
 
 <div align="left">
-    <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=function404&bg_color=0d1117&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" />
+  <a href="https://www.linkedin.com/in/lincoln-novais-mezzalira-361962236/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a/>
+  <a href="https://www.youtube.com/@zfunction/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a/>
+  <a href="https://www.instagram.com/lincoln.mezzalira/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a/>
 </div>
 
-<div align="center">
-    © made by <a href='https://function404.netlify.app' target='_blank'>Function404</a>
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">🌐 - Portfolio</h3>
+
+###
+
+<div align="left">
+  <a href="https:\\function404.netlify.app">
+    <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <a/> 
 </div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">🛠️- My Languages end Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=function404&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=function404&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="190" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=function404&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="360" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<p align="center">© made by Function404</p>
+
+###
