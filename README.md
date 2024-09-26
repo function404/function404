@@ -63,7 +63,7 @@
 
 ###
 
-<h3 align="left">🛠️- My Languages end Tools</h3>
+<h3 align="left">🛠️- My Languages and Tools</h3>
 
 ###
 
