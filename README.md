@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="200" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif"  />
+<img align="right" height="150" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif"  />
 
 ###
 
@@ -20,14 +20,13 @@
 
 ###
 
-<h3 align="left">📷 - Social</h3>
+<h1 align="left"></h1>
 
 ###
 
-<h1 align="left"></h1>
+<h3 align="left">📷 - Social</h3>
 
-
-
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lincoln-novais-mezzalira-361962236/">
