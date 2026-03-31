@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="https://profile-counter.glitch.me/function404/count.svg?"  />
-</div>
+[![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=function404)](https://github.com/function404)
 
 ###
 
