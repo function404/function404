@@ -49,7 +49,7 @@
 ###
 
 <div align="left">
-  <a href="https:\\function404.netlify.app" target="_blank">
+  <a href="https:\\functionss.site" target="_blank">
     <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <a/> 
 </div>
